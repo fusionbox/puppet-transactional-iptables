@@ -12,7 +12,7 @@ Transactional
     one. There should not be intermediate states.
 
 
-This does not intend to be compatible with other plateforms than Linux.
+This does not intend to be compatible with other platforms other than Linux.
 This is just a proof of concept for now. It only works on Debian.
 
 Examples
@@ -70,6 +70,6 @@ Known bugs
 
 For now, this is a proof of concept:
 
- * It only supports IPv4 for now
- * It only work on Debian for now
- * It only supports the filter table for now
+ * It only supports IPv4
+ * It only work on Debian
+ * It only supports the filter table
