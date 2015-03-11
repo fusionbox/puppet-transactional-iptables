@@ -12,7 +12,7 @@ Transactional
     one. There should not be intermediate states.
 
 
-This does not intend to be compatible with other platforms other than Linux.
+This does not intend to be compatible with platforms other than Linux.
 This is just a proof of concept for now. It only works on Debian.
 
 Examples
